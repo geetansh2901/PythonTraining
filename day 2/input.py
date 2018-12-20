@@ -1,0 +1,8 @@
+a=input('Enter a number ')
+print(a)
+print(type(a))
+print(a*2)
+a=float(a)
+print(a)
+print(type(a))
+print(a*2)

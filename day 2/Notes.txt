@@ -1,0 +1,60 @@
+// performs floor division
+** exponent
+<> not equal
+or in place of ||   //similar for and & not
+
+in					returns true if variable is in set
+not in				returns false if variable is in set
+
+is					returns true if identity of two operands is same, else false
+is not 				
+
+'''   				for multi line comments
+#					for single line comment
+
+
+input([prompt])		prompt="message to be displayed"
+
+
+
+outputs:
+
+type 1:
+print('hello')
+type 2:
+a=5
+print('The value of a is',a)
+type 3:
+print(*objects,sep='',end=\n)
+type 4:
+
+
+
+
+Random data generation
+
+random.randint(a,b)				returns an integer between a and b
+
+
+
+chained conditionals
+
+if condition1
+
+elif condition2
+
+elif
+
+else:
+
+
+
+
+Loops:
+
+
+use pass when no statements are after a condition
+like in C:
+{} after a loop
+
+
